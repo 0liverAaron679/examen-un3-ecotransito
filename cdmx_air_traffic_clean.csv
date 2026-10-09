@@ -1,0 +1,11 @@
+id_registro,timestamp,zona_estacion,concentracion_pm25,nivel_no2,indice_trafico_vehicular,estado_sensor
+REG-001,2026-10-01 08:00:00,Centro Historico,35.4,42.1,85.0,Normal
+REG-002,2026-10-01 09:00:00,centro historico,42.1,45.5,92.5,Normal
+REG-003,2026-10-01 10:00:00,CENTRO HISTORICO,-999.0,51.0,88.0,Alerta
+REG-004,2026-10-01 11:00:00,Zona Oriente,120.5,89.2,95.0,Alerta
+REG-005,2026-10-01 12:00:00,Zona Oriente,19.5,62.0,91.2,Normal
+REG-006,2026-10-01 13:00:00,zona oriente,310.0,195.0,15.0,Falla
+REG-007,2026-10-01 14:00:00,Zona Sur,18.2,22.4,45.0,Normal
+REG-008,2026-10-01 15:00:00,Zona Sur,-20.1,-995.0,42.1,Normal
+REG-009,2026-10-01 16:00:00,Zona Sur,19.5,25.1,85.0,Normal
+REG-010,2026-10-01 17:00:00,Zona Sur,19.5,25.1,41.0,Normal
